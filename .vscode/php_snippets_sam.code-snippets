@@ -1,0 +1,12 @@
+{
+  "php": {
+    "prefix": "php",
+    "body": ["<?php", "$0", "?><br />"],
+    "description": "php tag"
+  },
+  "const": {
+    "prefix": "const",
+    "body": "define('',);",
+    "description": "php constant"
+  }
+}
